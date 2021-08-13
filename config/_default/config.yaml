@@ -5,7 +5,7 @@
 
 title: Takatsugu Kosugi # Website name
 baseurl: 'https://blacktanktop.github.io' # Website URL
-copyright: 'Copyright © 2021- Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.' # Footer text, e.g. '© {year} Me'
+copyright: 'Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

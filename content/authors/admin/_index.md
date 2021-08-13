@@ -30,10 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D student in Computer Science
-    institution: Tokyo Institute of Technology
-    year: 2021~
-  - course: Completed Ph.D program in Biomolecular Science without a Ph.D. degree
+  - course: Completed Ph.D program in Biomolecular Science
     institution: Toho University
     year: 2017
   - course: Master of Science in Biomolecular Science
@@ -81,6 +78,6 @@ email: "blacktanktopme@gmail.com"
 highlight_name: false
 ---
 
-Takatsugu Kosugi is a Lead Data Scientist, leading a team of data scientists and machine learning engineers at an AI solution service company and a game service company. He is involved in data analysis, development of machine learning services, and consulting for digital transformation. In college, he majored in Molecular Biology and Bioinformatics. He was selected for the Junior Research Associate Program at RIKEN, and conducted research at the Bioinformatics Research Unit, Advanced Center for Computing and Communication. In order to utilize his experience and further improve his skills, Currently, he is a working doctoral student at Ohue Lab, Department of Computer Science, School of Computing, Tokyo Institute of Technology.
+Takatsugu Kosugi is a Lead Data Scientist, leading a team of data scientists and machine learning engineers at an AI solution service company and a game service company. He is involved in data analysis, development of machine learning services, and consulting for digital transformation. In university, he majored in Molecular Biology and Bioinformatics. He was selected for the Junior Research Associate Program at RIKEN, and conducted research at the Bioinformatics Research Unit, Advanced Center for Computing and Communication. In order to utilize his experience and further improve his skills, Currently, he is a working doctoral student at Ohue Lab, Department of Computer Science, School of Computing, Tokyo Institute of Technology.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

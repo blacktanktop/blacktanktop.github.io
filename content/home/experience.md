@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 120
 
 title: Experience
 subtitle:
@@ -22,29 +22,52 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Ph.D. student
+    company: Tokyo Institute of Technology
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: Yokohama
+    date_start: '2021-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Research Theme
+
+        * Development of a quantitative estimate index for PPI targeting compounds
+        * Designing PPI inhibotor 
         
-        * Analysing
+  - title: Lead Data Scienist
+    company: mynet.ai Inc.
+    company_url: 'https://mynet.ai/'
+    company_logo: 
+    location: Aoyama
+    date_start: '2018-03-01'
+    date_end: ''
+    description: |2-
+        * Project management
+        * Data mining
         * Modelling
-        * Deploying
+        * Training of future generations
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Scientist
+    company: Mynet Inc.
+    company_url: 'https://mynet.co.jp/english/'
+    company_logo:
+    location: Aoyama
+    date_start: '2017-02-01'
+    date_end: '2018-02-28'
+    description: |2-
+        * Designing KPIs
+        * Contributed to the establishment of a subsidiary
+
+  - title: Junior Research Associate
+    company: RIKEN
+    company_url: 'https://www.riken.jp/en/'
+    company_logo: 
+    location: Wako
+    date_start: '2014-04-01'
+    date_end: '2016-10-31'
+    description: Engaged in the development of new sequencing technologies to reveal dynamic changes in comprehensive transcription factor networks
 
 design:
-  columns: '2'
+  columns: '1'
 ---
