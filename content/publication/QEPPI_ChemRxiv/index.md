@@ -29,9 +29,10 @@ publication_types: ["3"]
 publication: In *ChemRxiv*
 publication_short: In *ChemRxiv*
 
-abstract: 
+abstract: The quantification of drug-likeness is very useful for screening drug candidates. The quantitative estimate of druglikeness (QED) is the most commonly used quantitative drug efficacy assessment method proposed by Bickerton et al. However, QED is not considered suitable for screening compounds that target protein-protein interactions (PPI), which have garnered significant interest in recent years. Therefore, we developed a method called the quantitative estimate of protein-protein interaction targeting drug-likeness (QEPPI), specifically for earlystage screening of PPI-targeting compounds. QEPPI is an extension of the QED method for PPI-targeting drugs and developed using the QED concept, involving modeling physicochemical properties based on the information available on the drug. QEPPI models the physicochemical properties of compounds that have been reported in the literature to act on PPIs. Compounds in iPPI-DB, which comprises PPI inhibitors and stabilizers, and FDA-approved drugs were evaluated using QEPPI. The results showed that QEPPI is more suitable for the early screening of PPI-targeting compounds than QED. QEPPI was also considered an extended concept of “Rule-of-Four” (RO4), a PPI inhibitor index proposed by Morelli et al. We have been able to turn a discrete value indicator into a continuous value indicator. To compare the discriminatory performance of QEPPI and RO4, we evaluated their discriminatory performance using the datasets of PPI-target compounds and FDA-approved drugs using Fscore and other indices. Results of the F-score of RO4 and QEPPI were 0.446 and 0.499, respectively. QEPPI demonstrated better performance and enabled quantification of drug-likeness for early-stage PPI drug discovery. Hence, it could be used as an initial filter for efficient screening of PPI-targeting compounds, which has been difficult in the past.
+
 # Summary. An optional shortened abstract.
-summary: We developed a method called the quantitative estimate of protein-protein interaction targeting drug-likeness (QEPPI), specifically for earlystage screening of PPI-targeting compounds.
+summary: Author's final version of the manuscript accepted for the IEEE CIBCB 2021 conference. © 2021 IEEE.
 
 tags: []
 
