@@ -1,5 +1,5 @@
 ---
-title: 第10回生命医薬情報学連合大会 (IIBMP2021) 
+title: Poster session：第10回生命医薬情報学連合大会 (IIBMP2021) 
 
 
 event: Informatics In Biology, Medicine and Pharmacology 2021(Poster presentation)

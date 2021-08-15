@@ -30,6 +30,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Ph.D. student in Computer Science
+    institution: Tokyo Institute of Technology
+    year: 2021-
   - course: Completed Ph.D program in Biomolecular Science
     institution: Toho University
     year: 2017

@@ -1,10 +1,10 @@
 ---
-title: Oral session：18th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
+title: Workshop：SELFIES and the future of molecular string representations
 
-event: 18th IEEE International Conference (Oral presentation)
-event_url: https://federation.edu.au/cibcb2021
+event: Presented in partnership with IOP Publishing's Machine Learning Science & Technology journal and the Acceleration Consortium (Workshop)
+event_url: https://accelerationconsortium.substack.com/p/selfies-workshop-aug-13
 
-location: Melbourne, Australia (Online)
+location: Online
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,17 +12,17 @@ location: Melbourne, Australia (Online)
 #   postcode: '94305'
 #   country: United States
 
-summary: Quantitative estimate of protein-protein interaction targeting drug-likeness
+summary: 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-13T00:00:00Z"
-date_end: "2030-10-15T00:00:00Z"
+date: "2021-08-13T00:00:00Z"
+# date_end: "2030-10-15T00:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-08-13T00:00:00Z"
+publishDate: "2021-08-15T00:00:00Z"
 
 authors: []
 tags: []
@@ -40,8 +40,8 @@ featured: false
 #   name: Follow
 #   url: https://twitter.com/black_tank_top
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "https://github.com/aspuru-guzik-group/selfies/blob/master/workshop2021/SELFIES_working_groups.pdf"
+url_slides: "https://blacktanktop.hatenablog.com/entry/2021/08/15/130759"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -59,6 +59,10 @@ url_video: ""
 # projects:
 # - example
 ---
+
+I participated in the SELFIES Workshop on August 13, 2021. It was excied!! Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.
+
+https://blacktanktop.hatenablog.com/entry/2021/08/15/130759
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

@@ -9,7 +9,7 @@ active: true  # Activate this widget? true/false
 # Order that this section appears on the page.
 weight: 90
 
-title: 'Upcoming Talks and Poster sessions'
+title: 'Events'
 subtitle:
 
 content:
