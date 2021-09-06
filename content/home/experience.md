@@ -35,7 +35,7 @@ experience:
         * Development of a quantitative estimate index for PPI targeting compounds
         * Designing PPI inhibotor 
         
-  - title: Lead Data Scienist
+  - title: Lead Data Scientist
     company: mynet.ai Inc.
     company_url: 'https://mynet.ai/'
     company_logo: 
