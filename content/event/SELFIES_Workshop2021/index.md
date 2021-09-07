@@ -4,7 +4,7 @@ title: Workshop：SELFIES and the future of molecular string representations
 event: Presented in partnership with IOP Publishing's Machine Learning Science & Technology journal and the Acceleration Consortium (Workshop)
 event_url: https://accelerationconsortium.substack.com/p/selfies-workshop-aug-13
 
-location: Online
+location: Toronto, Canada (Online)
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -17,8 +17,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-08-13T00:00:00Z"
-# date_end: "2030-10-15T00:00:00Z"
+date: "2021-08-13T9:00:00Z"
+date_end: "2021-08-13T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

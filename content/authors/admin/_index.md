@@ -63,6 +63,9 @@ social:
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-5155-8125
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
