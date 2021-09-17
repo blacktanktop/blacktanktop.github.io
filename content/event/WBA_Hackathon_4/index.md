@@ -1,10 +1,10 @@
 ---
-title: Workshop：SELFIES and the future of molecular string representations
+title: Hackathon：The Fourth WBA Hackathon
 
-event: Presented in partnership with IOP Publishing's Machine Learning Science & Technology journal and the Acceleration Consortium (Workshop)
-event_url: https://accelerationconsortium.substack.com/p/selfies-workshop-aug-13
+event: Providing AI with gaze control — was held in October, 2018, “to promote the open development of Whole Brain Architecture.”
+event_url: https://wba-initiative.org/en/3151/
 
-location: Toronto, Canada (Online)
+location: Hongo, Tokyo
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -17,12 +17,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-08-13T9:00:00Z"
-date_end: "2021-08-13T12:00:00Z"
+date: "2018-10-06T10:00:00Z"
+date_end: "2018-10-08T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-08-15T00:00:00Z"
+publishDate: "2018-07-15T00:00:00Z"
 
 authors: []
 tags: []
@@ -39,9 +39,9 @@ featured: false
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/black_tank_top
-url_code: ""
-url_pdf: "https://github.com/aspuru-guzik-group/selfies/blob/master/workshop2021/SELFIES_working_groups.pdf"
-url_slides: "https://blacktanktop.hatenablog.com/entry/2021/08/15/130759"
+url_code: "https://github.com/mynet-ai-public/wbai-hackathon-2018"
+url_pdf: "https://github.com/mynet-ai-public/wbai-hackathon-2018/blob/master/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E7%99%BA%E8%A1%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%82%99.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
@@ -60,10 +60,22 @@ url_video: ""
 # - example
 ---
 
-I participated in the SELFIES Workshop on August 13, 2021. It was excited!! Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.
+My colleagues and I participated in The Fourth WBA Hackathon on October 6-8, 2018. It was excited!! 
+Our team wanted to implement reinforcement learning with evolutionary strategy (ES) algorithms.
 
-https://blacktanktop.hatenablog.com/entry/2021/08/15/130759
+　▶ We can learn in a short time.
 
+　▶ We can differentiate ourselves from other teams (contribute from a different perspective).
+
+　▶ Hypothesis that the algorithm is strong in asynchronous integration.
+
+Step 1: Simplify the model and incorporate reinforcement learning.
+
+Step 2: To resemble the structure of a real brain, break up the implementation into modules.
+
+https://github.com/mynet-ai-public/wbai-hackathon-2018
+
+Finally, Our team (Mynet AI) got prize for Excellence. ([The Fourth WBA Hackathon Report](https://wba-initiative.org/en/3401/))
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
