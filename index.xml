@@ -70,7 +70,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://blacktanktop.github.io/talk/workshopselfies-and-the-future-of-molecular-string-representations/</link>
       <pubDate>Fri, 13 Aug 2021 09:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/talk/workshopselfies-and-the-future-of-molecular-string-representations/</guid>
-      <description>&lt;p&gt;I participated in the SELFIES Workshop on August 13, 2021. It was excied!! Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.&lt;/p&gt;
+      <description>&lt;p&gt;I participated in the SELFIES Workshop on August 13, 2021. It was excited!! Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blacktanktop.hatenablog.com/entry/2021/08/15/130759&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blacktanktop.hatenablog.com/entry/2021/08/15/130759&lt;/a&gt;&lt;/p&gt;
 &lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -271,6 +271,36 @@ Three
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hackathon：The Fourth WBA Hackathon</title>
+      <link>https://blacktanktop.github.io/talk/hackathonthe-fourth-wba-hackathon/</link>
+      <pubDate>Sat, 06 Oct 2018 10:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/talk/hackathonthe-fourth-wba-hackathon/</guid>
+      <description>&lt;p&gt;My colleagues and I participated in The Fourth WBA Hackathon on October 6-8, 2018. It was excited!!
+Our team wanted to implement reinforcement learning with evolutionary strategy (ES) algorithms.&lt;/p&gt;
+&lt;p&gt;　▶ We can learn in a short time.&lt;/p&gt;
+&lt;p&gt;　▶ We can differentiate ourselves from other teams (contribute from a different perspective).&lt;/p&gt;
+&lt;p&gt;　▶ Hypothesis that the algorithm is strong in asynchronous integration.&lt;/p&gt;
+&lt;p&gt;Step 1: Simplify the model and incorporate reinforcement learning.&lt;/p&gt;
+&lt;p&gt;Step 2: To resemble the structure of a real brain, break up the implementation into modules.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/mynet-ai-public/wbai-hackathon-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mynet-ai-public/wbai-hackathon-2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Finally, Our team (Mynet AI) got prize for Excellence. (&lt;a href=&#34;https://wba-initiative.org/en/3401/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Fourth WBA Hackathon Report&lt;/a&gt;)&lt;/p&gt;
+&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
