@@ -41,7 +41,7 @@ featured: false
 #   name: Follow
 #   url: https://twitter.com/black_tank_top
 url_code: ""
-url_pdf: ""
+url_pdf: "https://blacktanktop.github.io/20210927_IIBMP2021.pdf"
 url_slides: ""
 url_video: ""
 
