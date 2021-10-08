@@ -27,8 +27,8 @@ doi: "10.11517/pjsai.JSAI2020.0_4J2GS203"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *人工知能学会全国大会論文集*
-publication_short: In *人工知能学会全国大会論文集*
+publication: 人工知能学会全国大会論文集
+publication_short: 人工知能学会全国大会論文集
 
 abstract: 
 
