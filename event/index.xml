@@ -7,10 +7,31 @@
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright>
     <image>
-      <url>https://blacktanktop.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://blacktanktop.github.io/media/icon_huda7c95104bb42be29f57ccb11b02530f_528940_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://blacktanktop.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Bio&#34;Pack&#34;athon 2021 ＃10</title>
+      <link>https://blacktanktop.github.io/talk/biopackathon-2021-10/</link>
+      <pubDate>Wed, 13 Oct 2021 17:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/talk/biopackathon-2021-10/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Oral session：18th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology</title>
