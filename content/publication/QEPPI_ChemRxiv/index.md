@@ -9,9 +9,9 @@ authors:
 - Masahito Ohue
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+  - ""
+  - "Corresponding Author"
 
 date: "2021-04-28T00:00:00Z"
 doi: "10.33774/chemrxiv-2021-psqq4-v2"

@@ -9,9 +9,9 @@ authors:
 - Masahito Ohue
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+  - ""
+  - "Corresponding Author"
 
 date: "2021-10-07T00:00:00Z"
 doi: ""
@@ -54,10 +54,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
+image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#   focal_point: ""
-#   preview_only: false
+  focal_point: "LEFT"
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
