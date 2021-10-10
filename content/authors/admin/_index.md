@@ -60,9 +60,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/blacktanktop
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/takatsugu-kosugi-298126aa/
+- icon: speaker-deck
+  icon_pack: fab
+  link: https://speakerdeck.com/black_tank_top
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-5155-8125

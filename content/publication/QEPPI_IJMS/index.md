@@ -14,7 +14,7 @@ author_notes:
   - "Corresponding Author"
 
 date: "2021-10-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/ijms222010925"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2021-08-13T00:00:00Z"
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: _International Journal of Molecular Sciences_ (in press)
 publication_short: _Int. J. Mol. Sci._ (in press)
 
-abstract: Drug-likeness quantification is useful for screening drug candidates. Quantitative estimate of drug-likeness (QED) is commonly used to assess quantitative drug efficacy but is not suitable for screening compounds targeting protein-protein interactions (PPIs), which have recently gained attention. Therefore, we developed the quantitative estimate index for compounds targeting PPIs (QEPPI), specifically for early-stage screening of PPI-targeting compounds. QEPPI is an extension of the QED method for PPI-targeting drugs that models physicochemical properties based on the information available for drugs/compounds, specifically those reported to act on PPIs. FDA-approved drugs and compounds in iPPI-DB, which comprise PPI inhibitors and stabilizers, were evaluated using QEPPI. The results showed that QEPPI is more suitable than QED for early screening of PPI-targeting compounds. QEPPI was also considered as an extended concept of ‘‘Rule-of-Four’’ (RO4), a PPI inhibitor index. We evaluated the discriminatory performance of QEPPI and RO4 for datasets of PPI-target compounds and FDA-approved drugs using F-score and other indices. The F-score of RO4 and QEPPI were 0.451 and 0.501, respectively. QEPPI showed better performance and enabled quantification of drug-likeness for early-stage PPI drug discovery. Hence, it can be used as an initial filter to efficiently screen PPI-targeting compounds. Code and easy-to-use environment on Google Colaboratory of QEPPI are available at https://github.com/ohuelab/QEPPI
+abstract: Drug-likeness quantification is useful for screening drug candidates. Quantitative estimates of drug-likeness (QED) are commonly used to assess quantitative drug efficacy but are not suitable for screening compounds targeting protein-protein interactions (PPIs), which have recently gained attention. Therefore, we developed a quantitative estimate index for compounds targeting PPIs (QEPPI), specifically for early-stage screening of PPI-targeting compounds. QEPPI is an extension of the QED method for PPI-targeting drugs that models physicochemical properties based on the information available for drugs/compounds, specifically those reported to act on PPIs. FDA-approved drugs and compounds in iPPI-DB, which comprise PPI inhibitors and stabilizers, were evaluated using QEPPI. The results showed that QEPPI is more suitable than QED for early screening of PPI-targeting compounds. QEPPI was also considered an extended concept of the ‘‘Rule-of-Four’’ (RO4), a PPI inhibitor index. We evaluated the discriminatory performance of QEPPI and RO4 for datasets of PPI-target compounds and FDA-approved drugs using F-score and other indices. The F-scores of RO4 and QEPPI were 0.451 and 0.501, respectively. QEPPI showed better performance and enabled quantification of drug-likeness for early-stage PPI drug discovery. Hence, it can be used as an initial filter to efficiently screen PPI-targeting compounds.
 # Summary. An optional shortened abstract.
 summary: We developed the quantitative estimate index for compounds targeting PPIs (QEPPI). Code and easy-to-use environment on Google Colaboratory of QEPPI are available at https://github.com/ohuelab/QEPPI
 
@@ -43,8 +43,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://www.mdpi.com/1422-0067/22/20/10925/pdf'
+url_code: 'https://github.com/ohuelab/QEPPI'
 url_dataset: ''
 url_poster: ''
 url_project: ''
