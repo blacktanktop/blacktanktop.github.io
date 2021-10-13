@@ -22,7 +22,7 @@ date: "2021-10-13T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-10-07T00:00:00Z"
+publishDate: "2021-10-13T00:00:00Z"
 
 authors: []
 tags: [QEPPI, PyPI, Python]
@@ -41,7 +41,7 @@ featured: false
 #   url: https://twitter.com/black_tank_top
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://speakerdeck.com/black_tank_top/bio-pack-athon2021-number-10-introduction-to-the-pypi-registration-process-for-python-packages"
 url_video: ""
 
 # Markdown Slides (optional).
