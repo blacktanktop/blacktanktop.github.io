@@ -60,6 +60,8 @@ url_video: ""
 # - example
 ---
 
+I wrote a blog post explaining my presentation at Bio "Pack "athon 2021 \#10. 
+https://blacktanktop.hatenablog.com/entry/2021/10/13/180823
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
