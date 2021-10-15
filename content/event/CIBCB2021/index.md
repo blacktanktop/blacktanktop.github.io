@@ -59,7 +59,10 @@ url_video: "https://www.youtube.com/watch?v=NW8CMH15CJo"
 # projects:
 # - example
 ---
+I was very happy to be able to attend an international conference online.
+I didn't get any mention from the organizers, but if I use a lot of stuff on the Whova platform, I'm in first place. I wish I had gotten the heavy user award.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am rank 1 on the Whova leaderboard at IEEE CIBCB 2021 <a href="https://twitter.com/hashtag/cibcb2021?src=hash&amp;ref_src=twsrc%5Etfw">#cibcb2021</a> <a href="https://t.co/6reT0O4kyt">pic.twitter.com/6reT0O4kyt</a></p>&mdash; くろたんく@FullyVaccinated (@black_tank_top) <a href="https://twitter.com/black_tank_top/status/1448914420189450244?ref_src=twsrc%5Etfw">October 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
