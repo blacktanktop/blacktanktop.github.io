@@ -5,12 +5,33 @@
     <link>https://blacktanktop.github.io/</link>
       <atom:link href="https://blacktanktop.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Takatsugu Kosugi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Wed, 13 Oct 2021 17:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Sat, 13 Nov 2021 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blacktanktop.github.io/media/icon_huda7c95104bb42be29f57ccb11b02530f_528940_512x512_fill_lanczos_center_3.png</url>
       <title>Takatsugu Kosugi</title>
       <link>https://blacktanktop.github.io/</link>
     </image>
+    
+    <item>
+      <title>The 5th Tokyo Bioinformatics Meeting</title>
+      <link>https://blacktanktop.github.io/talk/the-5th-tokyo-bioinformatics-meeting/</link>
+      <pubDate>Sat, 13 Nov 2021 10:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/talk/the-5th-tokyo-bioinformatics-meeting/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>Bio&#34;Pack&#34;athon 2021 ＃10</title>
