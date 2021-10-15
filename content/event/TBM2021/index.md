@@ -1,10 +1,10 @@
 ---
-title: Oral session：18th IEEE International Conference on Computational Intelligence in Bioinformatics and Computational Biology
+title: The 5th Tokyo Bioinformatics Meeting
 
-event: 18th IEEE International Conference (Oral presentation)
-event_url: https://federation.edu.au/cibcb2021
+event: The 5th Tokyo Bioinformatics Meeting (東京バイオインフォマティクスミーティング　第５回研究会)
+event_url: https://sites.google.com/site/tokyobioinformaticsmeeting/%E7%AC%AC5%E5%9B%9E%E7%A0%94%E7%A9%B6%E4%BC%9A
 
-location: Melbourne, Australia (Online)
+location: Japan (Online)
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,20 +12,20 @@ location: Melbourne, Australia (Online)
 #   postcode: '94305'
 #   country: United States
 
-summary: Quantitative estimate of protein-protein interaction targeting drug-likeness
+summary: 
 abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-13T15:30:00Z"
-# date_end: "2030-10-15T00:00:00Z"
+date: "2021-11-13T10:00:00Z"
+date_end: "2021-11-13T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-08-13T00:00:00Z"
+publishDate: "2021-10-15T00:00:00Z"
 
 authors: []
-tags: []
+tags: [QEPPI]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,9 +40,9 @@ links:
   name: Follow
   url: https://twitter.com/black_tank_top
 url_code: ""
-url_pdf: "https://chemrxiv.org/engage/chemrxiv/article-details/610cc2d342d16551f33a72b0"
+url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=NW8CMH15CJo"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -59,6 +59,7 @@ url_video: "https://www.youtube.com/watch?v=NW8CMH15CJo"
 # projects:
 # - example
 ---
+
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

@@ -35,11 +35,11 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/black_tank_top
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/black_tank_top
 url_code: ""
 url_pdf: "https://blacktanktop.github.io/slides/20210927_IIBMP2021.pdf"
 url_slides: ""

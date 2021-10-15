@@ -34,11 +34,11 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/black_tank_top
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/black_tank_top
 url_code: ""
 url_pdf: "https://github.com/aspuru-guzik-group/selfies/blob/master/workshop2021/SELFIES_working_groups.pdf"
 url_slides: "https://blacktanktop.hatenablog.com/entry/2021/08/15/130759"

@@ -34,11 +34,11 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/black_tank_top
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/black_tank_top
 url_code: "https://github.com/mynet-ai-public/wbai-hackathon-2018"
 url_pdf: "https://github.com/mynet-ai-public/wbai-hackathon-2018/blob/master/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3%E7%99%BA%E8%A1%A8%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%88%E3%82%99.pdf"
 url_slides: ""
