@@ -178,7 +178,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/post/selfies_en_intro/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;I wrote an article in my personal blog in Japanese introducing SELFIES, a new molecular representation method that I have been interested in recently. In particular, I wrote about the grammar of SELFIES in detail in Japanese (&lt;a href=&#34;https://blacktanktop.hatenablog.com/entry/2021/08/12/115613%29,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blacktanktop.hatenablog.com/entry/2021/08/12/115613),&lt;/a&gt; and also I participated in the SELFIES Workshop on August 13, 2021. Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.
+&lt;p&gt;I wrote an article in my personal blog in Japanese introducing SELFIES, a new molecular representation method that I have been interested in recently. In particular, I wrote about the grammar of SELFIES in detail in Japanese (&lt;a href=&#34;https://blacktanktop.hatenablog.com/entry/2021/08/12/115613%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blacktanktop.hatenablog.com/entry/2021/08/12/115613)&lt;/a&gt;, and also I participated in the SELFIES Workshop on August 13, 2021. Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.
 &lt;a href=&#34;https://blacktanktop.hatenablog.com/entry/2021/08/15/130759&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blacktanktop.hatenablog.com/entry/2021/08/15/130759&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
@@ -314,15 +314,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
