@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blacktanktop.github.io/publication-type/3/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/publication_types/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/publication/solubility_biorxiv/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blacktanktop.github.io/tag/qeppi/</loc>
     <lastmod>2021-10-15T09:43:03+09:00</lastmod>
   </url><url>
     <loc>https://blacktanktop.github.io/tags/</loc>
     <lastmod>2021-10-15T09:43:03+09:00</lastmod>
-  </url><url>
-    <loc>https://blacktanktop.github.io/</loc>
-    <lastmod>2021-10-15T17:08:26+09:00</lastmod>
   </url><url>
     <loc>https://blacktanktop.github.io/talk/the-5th-tokyo-bioinformatics-meeting/</loc>
     <lastmod>2021-10-15T09:43:03+09:00</lastmod>
@@ -26,10 +35,13 @@
     <loc>https://blacktanktop.github.io/talk/oral-session18th-ieee-international-conference-on-computational-intelligence-in-bioinformatics-and-computational-biology/</loc>
     <lastmod>2021-10-15T17:08:26+09:00</lastmod>
   </url><url>
-    <loc>https://blacktanktop.github.io/publication-type/2/</loc>
-    <lastmod>2021-10-10T21:48:49+09:00</lastmod>
+    <loc>https://blacktanktop.github.io/publication-type/1/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blacktanktop.github.io/publication_types/</loc>
+    <loc>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</loc>
+    <lastmod>2021-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/publication-type/2/</loc>
     <lastmod>2021-10-10T21:48:49+09:00</lastmod>
   </url><url>
     <loc>https://blacktanktop.github.io/publication/qeppi_ijms/</loc>
@@ -56,14 +68,8 @@
     <loc>https://blacktanktop.github.io/post/selfies_intro/</loc>
     <lastmod>2021-08-13T13:34:42+09:00</lastmod>
   </url><url>
-    <loc>https://blacktanktop.github.io/publication-type/3/</loc>
-    <lastmod>2021-10-08T18:20:30+09:00</lastmod>
-  </url><url>
     <loc>https://blacktanktop.github.io/publication/qeppi_chemrxiv/</loc>
     <lastmod>2021-10-08T18:20:30+09:00</lastmod>
-  </url><url>
-    <loc>https://blacktanktop.github.io/publication-type/1/</loc>
-    <lastmod>2021-10-08T12:23:29+09:00</lastmod>
   </url><url>
     <loc>https://blacktanktop.github.io/publication/game_jsai2020/</loc>
     <lastmod>2021-10-08T12:23:29+09:00</lastmod>

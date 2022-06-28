@@ -5,12 +5,35 @@
     <link>https://blacktanktop.github.io/</link>
       <atom:link href="https://blacktanktop.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Takatsugu Kosugi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Sat, 13 Nov 2021 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blacktanktop.github.io/media/icon_huda7c95104bb42be29f57ccb11b02530f_528940_512x512_fill_lanczos_center_3.png</url>
       <title>Takatsugu Kosugi</title>
       <link>https://blacktanktop.github.io/</link>
     </image>
+    
+    <item>
+      <title>Solubility-aware protein binding peptide design using AlphaFold</title>
+      <link>https://blacktanktop.github.io/publication/solubility_biorxiv/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/publication/solubility_biorxiv/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>The 5th Tokyo Bioinformatics Meeting</title>
@@ -77,6 +100,29 @@ I didn&amp;rsquo;t get any mention from the organizers, but if I use a lot of st
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Estimate of Protein-Protein Interaction Targeting Drug-likeness</title>
+      <link>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     

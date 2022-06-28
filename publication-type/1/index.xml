@@ -5,12 +5,35 @@
     <link>https://blacktanktop.github.io/publication-type/1/</link>
       <atom:link href="https://blacktanktop.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blacktanktop.github.io/media/icon_huda7c95104bb42be29f57ccb11b02530f_528940_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://blacktanktop.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Quantitative Estimate of Protein-Protein Interaction Targeting Drug-likeness</title>
+      <link>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>オンラインゲームにおけるユーザー行動特性に基づく意味解釈可能な分類手法の提案</title>
