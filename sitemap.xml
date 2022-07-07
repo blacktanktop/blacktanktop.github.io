@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blacktanktop.github.io/publication-type/2/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/publication_types/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/publication/solubility_biomed/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blacktanktop.github.io/</loc>
+    <lastmod>2022-07-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blacktanktop.github.io/publication-type/3/</loc>
     <lastmod>2022-06-28T14:35:48+09:00</lastmod>
   </url><url>
-    <loc>https://blacktanktop.github.io/publication_types/</loc>
-    <lastmod>2022-06-28T14:35:48+09:00</lastmod>
-  </url><url>
     <loc>https://blacktanktop.github.io/publication/solubility_biorxiv/</loc>
-    <lastmod>2022-06-28T14:35:48+09:00</lastmod>
-  </url><url>
-    <loc>https://blacktanktop.github.io/</loc>
     <lastmod>2022-06-28T14:35:48+09:00</lastmod>
   </url><url>
     <loc>https://blacktanktop.github.io/tag/qeppi/</loc>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</loc>
     <lastmod>2022-06-28T14:35:48+09:00</lastmod>
-  </url><url>
-    <loc>https://blacktanktop.github.io/publication-type/2/</loc>
-    <lastmod>2021-10-10T21:48:49+09:00</lastmod>
   </url><url>
     <loc>https://blacktanktop.github.io/publication/qeppi_ijms/</loc>
     <lastmod>2021-10-10T21:48:49+09:00</lastmod>

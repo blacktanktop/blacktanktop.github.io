@@ -13,6 +13,29 @@
     </image>
     
     <item>
+      <title>Solubility-Aware Protein Binding Peptide Design Using AlphaFold</title>
+      <link>https://blacktanktop.github.io/publication/solubility_biomed/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/publication/solubility_biomed/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Solubility-aware protein binding peptide design using AlphaFold</title>
       <link>https://blacktanktop.github.io/publication/solubility_biorxiv/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
