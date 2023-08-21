@@ -5,7 +5,7 @@
     <link>https://blacktanktop.github.io/</link>
       <atom:link href="https://blacktanktop.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Takatsugu Kosugi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2021 Takatsugu Kosugi. All rights reserved. CC BY-NC-ND 4.0.</copyright><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://blacktanktop.github.io/media/icon_huda7c95104bb42be29f57ccb11b02530f_528940_512x512_fill_lanczos_center_3.png</url>
       <title>Takatsugu Kosugi</title>
@@ -13,15 +13,46 @@
     </image>
     
     <item>
-      <title>Solubility-Aware Protein Binding Peptide Design Using AlphaFold</title>
-      <link>https://blacktanktop.github.io/publication/solubility_biomed/</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://blacktanktop.github.io/publication/solubility_biomed/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>Design of Cyclic Peptides Targeting Protein-Protein Interactions using AlphaFold</title>
+      <link>https://blacktanktop.github.io/publication/cycpep_biorxiv/</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/publication/cycpep_biorxiv/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solubility-Aware Protein Binding Peptide Design Using AlphaFold</title>
+      <link>https://blacktanktop.github.io/publication/solubility_biomed/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://blacktanktop.github.io/publication/solubility_biomed/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -40,11 +71,15 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://blacktanktop.github.io/publication/solubility_biorxiv/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/publication/solubility_biorxiv/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -63,7 +98,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://blacktanktop.github.io/talk/the-5th-tokyo-bioinformatics-meeting/</link>
       <pubDate>Sat, 13 Nov 2021 10:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/talk/the-5th-tokyo-bioinformatics-meeting/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -86,7 +123,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <guid>https://blacktanktop.github.io/talk/biopackathon-2021-10/</guid>
       <description>&lt;p&gt;I wrote a blog post explaining my presentation at Bio &amp;ldquo;Pack &amp;ldquo;athon 2021 #10.
 &lt;a href=&#34;https://blacktanktop.hatenablog.com/entry/2021/10/13/180823&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blacktanktop.hatenablog.com/entry/2021/10/13/180823&lt;/a&gt;&lt;/p&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -110,7 +149,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <description>&lt;p&gt;I was very happy to be able to attend an international conference online.
 I didn&amp;rsquo;t get any mention from the organizers, but if I use a lot of stuff on the Whova platform, I&amp;rsquo;m in first place. I wish I had gotten the heavy user award.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I am rank 1 on the Whova leaderboard at IEEE CIBCB 2021 &lt;a href=&#34;https://twitter.com/hashtag/cibcb2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#cibcb2021&lt;/a&gt; &lt;a href=&#34;https://t.co/6reT0O4kyt&#34;&gt;pic.twitter.com/6reT0O4kyt&lt;/a&gt;&lt;/p&gt;&amp;mdash; くろたんく@FullyVaccinated (@black_tank_top) &lt;a href=&#34;https://twitter.com/black_tank_top/status/1448914420189450244?ref_src=twsrc%5Etfw&#34;&gt;October 15, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -131,11 +171,15 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/publication/qeppi_cibcb2021/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -154,11 +198,15 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://blacktanktop.github.io/publication/qeppi_ijms/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/publication/qeppi_ijms/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -179,7 +227,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <guid>https://blacktanktop.github.io/talk/poster-session%E7%AC%AC10%E5%9B%9E%E7%94%9F%E5%91%BD%E5%8C%BB%E8%96%AC%E6%83%85%E5%A0%B1%E5%AD%A6%E9%80%A3%E5%90%88%E5%A4%A7%E4%BC%9A-iibmp2021/</guid>
       <description>&lt;p&gt;I made a poster presentation at IIBMP2021 on September 28, 2021. The title of my presentation was &amp;ldquo;Development of a Quantitative Estimate Index for Early-Stage Screening of Compounds Targeting Protein-Protein Interactions&amp;rdquo;. I am very happy to announce that I won a &lt;a href=&#34;https://iibmp2021.hamadalab.com/award/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster award&lt;/a&gt;.
 The &lt;a href=&#34;https://blacktanktop.github.io/slides/20210927_IIBMP2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poster&lt;/a&gt; used for the presentation was uploaded, so please check it out if you are interested.&lt;/p&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -213,7 +263,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <guid>https://blacktanktop.github.io/talk/workshopselfies-and-the-future-of-molecular-string-representations/</guid>
       <description>&lt;p&gt;I participated in the SELFIES Workshop on August 13, 2021. It was excited!! Some of the participants asked me if there was an English version equivalent to the Japanese explanation I wrote. So I have translated it back into English. so if you are interested in it, please refer to the following.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://blacktanktop.hatenablog.com/entry/2021/08/15/130759&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blacktanktop.hatenablog.com/entry/2021/08/15/130759&lt;/a&gt;&lt;/p&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
@@ -245,11 +297,15 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://blacktanktop.github.io/publication/qeppi_chemrxiv/</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/publication/qeppi_chemrxiv/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -268,11 +324,15 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://blacktanktop.github.io/publication/game_jsai2020/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://blacktanktop.github.io/publication/game_jsai2020/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -318,11 +378,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -332,19 +391,18 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   One 
+  One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+  &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
+  Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -355,12 +413,11 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -394,21 +451,19 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
@@ -429,7 +484,9 @@ Our team wanted to implement reinforcement learning with evolutionary strategy (
 &lt;p&gt;Step 2: To resemble the structure of a real brain, break up the implementation into modules.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mynet-ai-public/wbai-hackathon-2018&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mynet-ai-public/wbai-hackathon-2018&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Finally, Our team (Mynet AI) got prize for Excellence. (&lt;a href=&#34;https://wba-initiative.org/en/3401/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Fourth WBA Hackathon Report&lt;/a&gt;)&lt;/p&gt;
-&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
   &lt;/div&gt;
