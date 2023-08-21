@@ -29,15 +29,15 @@ publication_types: ["3"]
 publication: _bioRxiv_
 publication_short: _bioRxiv_
 
-abstract: More than 930,000 protein-protein interactions (PPIs) have been identified in recent years, but their physicochemical properties differ from conventional drug targets, complicating the use of conventional small molecules as modalities. Cyclic peptides are a promising modality for targeting protein-protein interactions (PPIs), but it is difficult to predict the structure of a target protein-cyclic peptide complex or to design a cyclic peptide sequence that binds to the target protein using computational methods. Recently, AlphaFold with a cyclic offset has enabled predicting the structure of cyclic peptides, thereby enabling de novo cyclic peptide designs. We developed a cyclic peptide complex offset to enable the structural prediction of target proteins and cyclic peptide complexes and found AlphaFold2 with a cyclic peptide complex offset can predict structures with high accuracy. We also applied the cyclic peptide complex offset to the binder hallucination protocol of AfDesign, a de novo protein design method using AlphaFold, and we could design a high predicted local-distance difference test and lower separated binding energy per unit interface area than the native MDM2/p53 structure. Furthermore, the method was applied to 12 other protein-peptide complexes and one protein-protein complex. Our approach shows that it is possible to design putative cyclic peptide sequences targeting PPI.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: We developed a cyclic peptide complex offset to enable the structural prediction of target proteins and cyclic peptide complexes and found AlphaFold2 with a cyclic peptide complex offset can predict structures with high accuracy. We also applied the cyclic peptide complex offset to the binder hallucination protocol of AfDesign, a de novo protein design method using AlphaFold, and we could design a high predicted local-distance difference test and lower separated binding energy per unit interface area than the native MDM2/p53 structure. Furthermore, the method was applied to 12 other protein-peptide complexes and one protein-protein complex. Our approach shows that it is possible to design putative cyclic peptide sequences targeting PPI.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured:
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
