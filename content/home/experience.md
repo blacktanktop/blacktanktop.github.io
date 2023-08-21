@@ -32,6 +32,7 @@ experience:
     description: |2-
         Research Theme
 
+        * Protein binding peptide design
         * Development of a quantitative estimate index for PPI targeting compounds
         * Designing PPI inhibotor 
         
