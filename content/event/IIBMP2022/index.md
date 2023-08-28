@@ -61,9 +61,6 @@ url_video: ""
 # - example
 ---
 
-I made a poster presentation at IIBMP2021 on September 28, 2021. The title of my presentation was "Development of a Quantitative Estimate Index for Early-Stage Screening of Compounds Targeting Protein-Protein Interactions". I am very happy to announce that I won a [poster award](https://iibmp2021.hamadalab.com/award/).
-The [poster](https://blacktanktop.github.io/slides/20210927_IIBMP2021.pdf) used for the presentation was uploaded, so please check it out if you are interested.
-
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->
