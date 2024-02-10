@@ -23,7 +23,8 @@ organizations:
 # Interests to show in About widget
 interests:
 - Cheminformatics
-- Protein-Protein Interaction
+- Peptide design
+- Bioinformatics
 - Machine Learning
 - Data Mining
 
@@ -32,7 +33,7 @@ education:
   courses:
   - course: Ph.D. student in Computer Science
     institution: Tokyo Institute of Technology
-    year: 2021-
+    year: 2024
   - course: Completed Ph.D program in Biomolecular Science
     institution: Toho University
     year: 2017
@@ -48,24 +49,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/black_tank_top
-- icon: blog
-  icon_pack: fas
-  link: https://blacktanktop.hatenablog.com/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/black_tank_top
+# - icon: blog
+#   icon_pack: fas
+#   link: https://blacktanktop.hatenablog.com/
 # - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/blacktanktop
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/takatsugu-kosugi-298126aa/
-- icon: speaker-deck
-  icon_pack: fab
-  link: https://speakerdeck.com/black_tank_top
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/takatsugu-kosugi-298126aa/
+# - icon: speaker-deck
+#   icon_pack: fab
+#   link: https://speakerdeck.com/black_tank_top
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-5155-8125

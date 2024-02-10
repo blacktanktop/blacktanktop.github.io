@@ -38,10 +38,10 @@ email: blacktanktopme@gmail.com
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/black_tank_top'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/black_tank_top'
   # - icon: github
   #   icon_pack: fab
   #   name: Follow Me
